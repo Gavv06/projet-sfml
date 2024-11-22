@@ -1,2 +1,4 @@
 # projet-sfml
-projet sfml tout est dans le titre
+projet sfml 
+application qui permet de jouer au morpion
+avec du son et des textures
