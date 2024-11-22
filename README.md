@@ -1,4 +1,4 @@
 # projet-sfml
 projet sfml 
 application qui permet de jouer au morpion
-avec du son et des textures
+features (prévu): texture, deux mode de jeu (normal et infernal), multi fenetre
