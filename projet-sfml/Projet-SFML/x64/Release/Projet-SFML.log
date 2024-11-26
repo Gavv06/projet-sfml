@@ -1,0 +1,43 @@
+﻿  Main.cpp
+C:\Users\tsfeir\Documents\GitHub\projet-sfml\projet-sfml\Projet-SFML\Main.cpp(147,101): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tsfeir\Documents\GitHub\projet-sfml\projet-sfml\Projet-SFML\Main.cpp(147,84): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tsfeir\Documents\GitHub\projet-sfml\projet-sfml\Projet-SFML\Main.cpp(161,91): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\tsfeir\Documents\GitHub\projet-sfml\projet-sfml\Projet-SFML\Main.cpp(161,74): warning C4244: 'argument' : conversion de 'T' en 'T', perte possible de données
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  Génération de code en cours
+  1 of 92 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Fin de la génération du code
+  Projet-SFML.vcxproj -> C:\Users\tsfeir\Documents\GitHub\projet-sfml\projet-sfml\x64\Release\Projet-SFML.exe
